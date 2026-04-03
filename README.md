@@ -40,9 +40,23 @@ The raw data used for this project can be found in the [data](data/) folder.
 
 ## KEY QUERIES PERFORMED
 
-Filtering users by age and location.
-Using logical operators to find specific movie genres.
-Sorting and pagination for data reporting
+- Filtering customers by city and country.
+- Identifying inactive accounts.
+- Retrieving transactions within a specified amount range.
+- Sorting customers alphabetically by last name.
+
+## IMPLENMENTATION AND QUERY RESULTS
+
+Below are the results of business queries performed to extract insights.
+
+### 1. Alphabetical Customer Sort
+**Goal** Sort all customers by last name alphabetically.
+       SELECT * FROM CustomersTable 
+       ORDER BY Last_Name ASC
+![Query Result 1](Images/Query Result 1.jpg)
+       
+
+
 
 
 
