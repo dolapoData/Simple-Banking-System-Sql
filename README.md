@@ -55,6 +55,37 @@ Below are the results of business queries performed to extract insights.
        SELECT * FROM CustomersTable 
        ORDER BY Last_Name ASC
 ![Query Result 1](Images/Query%20Result%201.jpg)
+
+### 2.Transaction Amount Range
+**Goal** Retrieve transactions between 1000 and 10000.
+
+       SELECT * FROM Transactions Table
+       WHERE Amount BETWEEN 1000 AND 10000
+  ![Query Result 2](Images/Query%20Result%202.jpg)
+
+  ### 3. Customer Location Filter
+  **Goal** Identify customers based in Lagos and Abuja.
+
+       SELECT * FROM Customers
+       WHERE City = 'Lagos' OR City = 'Abuja'
+  ![Query Result 3](Images/Query%20Result%203.jpg)
+
+  ### 4. Inactive Accounts
+  **Goal** Identify all accounts that are no longer active.
+
+        SELECT * FROM Accounts Table
+        WHERE Status <> 'Active'
+   ![Query Result 4](Images/Query%20Result%204.jpg)
+  
+
+  
+       
+       
+
+
+
+       
+
        
 
 
