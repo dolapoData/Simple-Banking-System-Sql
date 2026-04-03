@@ -54,7 +54,7 @@ Below are the results of business queries performed to extract insights.
 
        SELECT * FROM CustomersTable 
        ORDER BY Last_Name ASC
-![Query Result 1](Images/Query Result 1.jpg)
+![Query Result 1](Images/Query%20Result%201.jpg)
        
 
 
