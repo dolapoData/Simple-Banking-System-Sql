@@ -1,4 +1,4 @@
-##### SIMPLE BANKING DATABASE SYSTEM
+# SIMPLE BANKING DATABASE SYSTEM
 
 A relational database for managing banking customers and transactions using SQL Server
 
@@ -14,7 +14,7 @@ Banks handle large volumes of customers and transactions data daily and without 
 - Monitor financial transactions
 - Retrieve useful insights quickly
 
-# The Solution:
+##### The Solution:
 A centralised MySQL database was designed and implemented to ensure accuracy, consistency and fast data retrieval to enable banks monitor accounts , track transactions and generate finacial insights efficiently
 
 
