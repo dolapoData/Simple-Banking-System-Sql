@@ -38,6 +38,14 @@ The raw data used for this project can be found in the [data](data/) folder.
 
 ![ER Diagram](Images/ER_Diagram.jpg)
 
+## KEY QUERIES PERFORMED
+
+Filtering users by age and location.
+Using logical operators to find specific movie genres.
+Sorting and pagination for data reporting
+
+
+
 
 
 
