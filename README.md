@@ -51,6 +51,7 @@ Below are the results of business queries performed to extract insights.
 
 ### 1. Alphabetical Customer Sort
 **Goal** Sort all customers by last name alphabetically.
+
        SELECT * FROM CustomersTable 
        ORDER BY Last_Name ASC
 ![Query Result 1](Images/Query Result 1.jpg)
