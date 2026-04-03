@@ -34,7 +34,7 @@ The system architecture uses a relational schema to ensure data integrity and re
 
 - Transactions Table: Records all financial transactions made on all accounts.
 
-The raw data used for this project can be found in the data folder.
+The raw data used for this project can be found in the [data](data/) folder.
 
 ![ER Diagram](Images/ER_Diagram.jpg)
 
