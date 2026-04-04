@@ -87,7 +87,7 @@ Below are the results of business queries performed to extract insights.
    
    ## TECHNICAL CHALLENGES & SOLUTIONS
  
-- Referential Integrity: Enforced FOREIGN KEY constraints to ensure that every transaction linked to a valid customer account.
+- Referential Integrity: Enforced FOREIGN KEY constraints to ensure that every transaction is linked to a valid customer account.
 
    
   
